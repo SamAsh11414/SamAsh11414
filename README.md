@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Samuel Ashkenas, I am a "Full Stack Developer" but thats slightly stretching the definition. I live in New York City and go to Brooklyn Technical High School. As of writing this I am 14 as of writing this and will be until April 10th. I know: Python, C#, Javascript, CSS. I hope to learn more in the future and so I can start to work on more serious project that may effect the world.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="512" src="https://github-readme-stats.vercel.app/api?username=SamAsh11414&show_icons=true&theme=dark&count_private=true" />
 </a>
