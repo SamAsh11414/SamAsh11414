@@ -7,7 +7,7 @@ Here is my Technical Info:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="250" width="512" src="https://github-readme-stats.vercel.app/api?username=SamAsh11414&show_icons=true&theme=dracula&count_private=true" />
-    <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAsh11414&langs_count=6&theme=dracula">
+    <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAsh11414&hide=CSS,SCSS&langs_count=6&theme=dracula">
 </div>
 </a>
 <!--
