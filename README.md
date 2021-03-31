@@ -6,7 +6,7 @@ I'm Samuel Ashkenas, I am a "Full Stack Developer" but thats slightly stretching
 Here is my Technical Info:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=SamAsh11414&show_icons=true&theme=dracula&count_private=true" />
+    <img align="center" height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=SamAsh11414&show_icons=true&theme=dracula&count_private=true" />
     <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAsh11414&langs_count=6&theme=dracula">
 </div>
 </a>
