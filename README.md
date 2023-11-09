@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Samuel Ashkenas, I am a "Full Stack Developer" but thats slightly stretching the definition. I live in New York City and go to Brooklyn Technical High School. As of writing this I am 14 and will be until April 10th 2021. I know: Python, C#, Javascript, CSS. I hope to learn more in the future and so I can start to work on more serious project that may effect the world. I am not a fan of php but I still have old projects that use it that are in my repos. 
-
+I'm Samuel Ashkenas, I am a "Full Stack Developer" but thats slightly stretching the definition. I live in New York City and go to Brooklyn Technical High School.  I know: Python, C#, Javascript, CSS. I hope to learn more in the future and so I can start to work on more serious project that may effect the world. I am not a fan of php but I still have old projects that use it that are in my repos. 
+<!--**As of writing this I am 14 and will be until April 10th 2021.**-->
 
 Here is my Technical Info:
 
